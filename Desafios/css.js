@@ -11,6 +11,7 @@ Percorra a lista de usuários com uma estrutura de repetição imprimindo em tel
 Carlos trabalha com HTML, CSS
 Jarmine trabalha com JavaScript, CSS
 Tuane trabalha com HTML, Node.js
+
 Busca por tecnologia
 
 Baseado no desafio anterior, utilize a mesma lista de usuários construída.
